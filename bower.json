@@ -1,15 +1,12 @@
 {
-  "name": "SoFast",
+  "name": "myprofile",
   "version": "0.0.1",
-  "description": "project for hungry people",
+  "description": "myprofile",
   "keywords": [
-    "food",
-    "hungr",
-    "hungry",
-    "train"
+    "myprofile"
   ],
   "authors": [
-    "pallavi barsagadey"
+    "Gopinath Subramaniam"
   ],
   "license": "MIT",
   "homepage": "index.html",
